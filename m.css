@@ -1,0 +1,15 @@
+#input-default-list {
+	padding-left: 0;
+}
+
+#input-default-list li {
+	margin-left: none;
+}
+
+#input-default-list li::marker {
+	content: "";
+}
+
+#input-default-list input {
+	width: 100px;
+}
